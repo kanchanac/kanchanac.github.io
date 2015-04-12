@@ -1,0 +1,31 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://kanchana.chintoju.com
+title: Kanchu's Site
+email: kanchana.chintoju [at] gmail.com
+description: > # "Write an awesome description for your new site here. 
+  You can edit this line in _config.yml. It will appear in your document 
+  head meta (for Google search results) and in your feed.xml site 
+  description."
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: twitter
+    url: https://twitter.com/kanchanakishore
+  - title: github
+    url: https://github.com/kanchanac
+  - title: linkedin
+    url: https://www.linkedin.com/pub/kanchana-chintoju/3/431/97
